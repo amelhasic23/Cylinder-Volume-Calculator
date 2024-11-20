@@ -1,0 +1,7 @@
+C:\Users\ABC\Desktop\Program za izracunavanje zapremine valjka\Program za izracunavanje zapremine valjka\bin\Debug\Program za izracunavanje zapremine valjka.exe.config
+C:\Users\ABC\Desktop\Program za izracunavanje zapremine valjka\Program za izracunavanje zapremine valjka\bin\Debug\Program za izracunavanje zapremine valjka.exe
+C:\Users\ABC\Desktop\Program za izracunavanje zapremine valjka\Program za izracunavanje zapremine valjka\bin\Debug\Program za izracunavanje zapremine valjka.pdb
+C:\Users\ABC\Desktop\Program za izracunavanje zapremine valjka\Program za izracunavanje zapremine valjka\obj\Debug\Program za izracunavanje zapremine valjka.csproj.AssemblyReference.cache
+C:\Users\ABC\Desktop\Program za izracunavanje zapremine valjka\Program za izracunavanje zapremine valjka\obj\Debug\Program za izracunavanje zapremine valjka.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\Program za izracunavanje zapremine valjka\Program za izracunavanje zapremine valjka\obj\Debug\Program za izracunavanje zapremine valjka.exe
+C:\Users\ABC\Desktop\Program za izracunavanje zapremine valjka\Program za izracunavanje zapremine valjka\obj\Debug\Program za izracunavanje zapremine valjka.pdb
